@@ -1,11 +1,11 @@
 body{
-    background-color: black;
-    color:brown;
+    background-color: rgb(233, 218, 218);
+    color:rgb(42, 81, 165);
     font-family: sans-serif, Arial, Helvetica;
     text-align: center;
     padding: 50px;
 }
 
 h1{
-    color:rgb(144, 0, 201);
+    color:rgb(107, 71, 121);
 }
