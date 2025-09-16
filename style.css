@@ -9,3 +9,25 @@ body{
 h1{
     color:rgb(107, 71, 121);
 }
+h6{
+    text-align: rigth boton;
+
+}
+nav{
+    text-align: center;
+    background-color: rgb(107, 71, 121);
+    padding: 10px;
+}
+nav a{
+    color:azure;
+    margin: 0 15px;
+    text-decoration:none;
+    font-weigth:bold;
+}
+nav a:hover:{
+    text-decoration:underline;
+}
+h1{
+    color:blueviolet;
+}
+
